@@ -1,3 +1,3 @@
 # Projeto TecBlog
 
-Esse é mais um dos meus projetos criados para treinar a construção de sites web utilizando apenas HTML e CSS
+o projeto TecBlog foi criado na inteção de treinar meus conhecimentos com as ferramentas de HTML5 e CSS3.
